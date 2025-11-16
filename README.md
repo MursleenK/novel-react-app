@@ -5,3 +5,5 @@ Features:
 • Featured books homepage
 • API integration
 • Responsive layout
+
+Live link: https://mursleenk.github.io/novel-react-app/
