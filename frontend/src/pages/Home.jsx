@@ -64,7 +64,7 @@ function Home(){
             {error && <div className="error-message">{error}</div>}
 
             {loading ? 
-            <div className="loading">Loading results...</div>
+            <div className="loading">Loading...</div>
             :
             <div className="novels-grid">
                 {novels.map(
